@@ -1,0 +1,26 @@
+{
+  "asociats": {
+    "homes": 5467,
+    "dones": 7008
+  },
+  "junta": {
+    "homes": 24,
+    "dones": 2
+  },
+  "primersTrons": {
+    "homes": 28,
+    "dones": 0
+  },
+  "mayorales": {
+    "homes": 14,
+    "dones": 0
+  },
+  "cuadroHonor": {
+    "homes": 33,
+    "dones": 0
+  },
+  "personatgesFesters":{
+    "homes": 10,
+    "dones": 0
+  }
+}
