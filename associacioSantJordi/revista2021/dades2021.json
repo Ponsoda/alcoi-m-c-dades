@@ -1,10 +1,10 @@
 {
   
-  asociats:{
+  "asociats": {
   
-  homes: 6212,
-  dones: 6520
-  }
+                "homes": 6212,
+                "dones": 6520
+              }
 
 
 }
