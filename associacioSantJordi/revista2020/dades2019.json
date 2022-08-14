@@ -1,11 +1,12 @@
 
-  asociats: {
-    homes: 6159,
-    dones: 5648
+{  
+"asociats": {
+    "homes": 6159,
+    "dones": 5648
   },
-  junta: {
-    homes: 24,
-    dones: 2
+  "junta": {
+    "homes": 24,
+    "dones": 2
   },
   "primersTrons": {
     "homes": 28,
@@ -22,4 +23,6 @@
   "personatgesFesters":{
     "homes": 10,
     "dones": 0
+  }
+}
 
