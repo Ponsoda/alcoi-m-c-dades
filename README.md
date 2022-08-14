@@ -2,6 +2,15 @@
 
 ------------------------------------------------------------------------------------------------------
 
+## Dades
+
+- Associats
+- Junta
+- Primers Trons
+- Majorals
+- Cuadro d'Honor
+- Personatges Festers
+
 ## Enllaços 
 
 * http://revista.asjordi.org/
