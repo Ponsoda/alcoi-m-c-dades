@@ -11,7 +11,16 @@
     "homes": 28,
     "dones": 0
   },
-  "mayorales":{
+  "mayorales": {
     "homes": 14,
+    "dones": 0
+  },
+  "cuadroHonor: {
+    "homes": 34,
+    "dones": 0
+  },
+  "personatgesFesters":{
+    
+    "homes": 10,
     "dones": 0
 }
