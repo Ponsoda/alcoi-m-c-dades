@@ -11,7 +11,7 @@
 - Cuadro d'Honor
 - Personatges Festers
 
-La informació arriba fins al 2014.
+La informació arriba fins al 2014 (dades del any anterior a la publicació de la revista).
 
 ## Dades El Nostre
 
