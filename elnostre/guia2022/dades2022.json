@@ -9,60 +9,68 @@
     "homes":14
     "dones":1
   },  "almogavares":{
-    "homes:12
+    "homes":11
+    "dones":1
+  },  "moazarabes":{
+    "homes":15
     "dones":0
-  },  "tomasinas":{
-    "homes":
-    "dones":
-  },  "tomasinas":{
-    "homes":
-    "dones":
-  },  "tomasinas":{
-    "homes":
-    "dones":
-  },  "tomasinas":{
-    "homes":
-    "dones":
-  },  "tomasinas":{
-    "homes":
-    "dones":
-  },  "tomasinas":{
-    "homes":
-    "dones":
-  },  "tomasinas":{
-    "homes":
-    "dones":
-  },  "tomasinas":{
-    "homes":
-    "dones":
-  },  "tomasinas":{
-    "homes":
-    "dones":
-  },  "tomasinas":{
-    "homes":
-    "dones":
-  },  "tomasinas":{
-    "homes":
-    "dones":
-  },  "tomasinas":{
-    "homes":
-    "dones":
-  },  "tomasinas":{
-    "homes":
-    "dones":
-  },  "tomasinas":{
-    "homes":
-    "dones":
-  },  "tomasinas":{
-    "homes":
-    "dones":
-  },  "tomasinas":{
+  },  "vascos":{
+    "homes":4
+    "dones":1
+  },  "gusmans":{
+    "homes":9
+    "dones":1
+  },  "labradores":{
+    "homes":8
+    "dones":2
+  },  "cides":{
+    "homes":12
+    "dones":0
+  },  "asturianos":{
+    "homes":13
+    "dones":0
+  },  "andaluces":{
+    "homes":12
+    "dones":0
+  },  "aragonesos":{
+    "homes":8
+    "dones":0
+  },  "alcodianos":{
+    "homes":14
+    "dones":1
+  },  "cruzados":{
+    "homes":9
+    "dones":0
+  },  "cordon":{
+    "homes":14
+    "dones":1
+  },  "magenta":{
+    "homes":13
+    "dones":0
+  },  "verds":{
+    "homes":11
+    "dones":0
+  },  "chano":{
+    "homes":6
+    "dones":4
+  },  "domingoMiques":{
+    "homes":13
+    "dones":0
+  },  "judios":{
+    "homes":14
+    "dones":0
+  },  "llana":{
     "homes":
     "dones":
   },  "tomasinas":{
     "homes":
     "dones":
   }
+,  "tomasinas":{
+    "homes":
+    "dones":
+  }
+
 
 
 
