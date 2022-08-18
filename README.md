@@ -2,7 +2,7 @@
 
 ------------------------------------------------------------------------------------------------------
 
-## Dades
+## Dades Associació Sant Jordi
 
 - Associats
 - Junta
@@ -10,6 +10,13 @@
 - Majorals
 - Cuadro d'Honor
 - Personatges Festers
+
+La informació arriba fins al 2014.
+
+## Dades El Nostre
+
+- Directiva per filà
+
 
 ## Enllaços 
 
