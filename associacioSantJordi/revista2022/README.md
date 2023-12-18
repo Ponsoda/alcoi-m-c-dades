@@ -1,3 +1,3 @@
-
-*La revista de 2022 encara no ha sigut publicada.
-Enllaç dades: https://www.asjordi.org/upload/files/memorias/MEMORIA%20DE%20ACTIVIDADES%202021.pdf
+Revista 2022 amb les dades de la memoria de 2021: http://revista.asjordi.org/public/pdf/2022.pdf
+* Nombre i gènere dels associats -> Apartat d'àrea social (pàgina 48)
+* Dades de la Junta Directiva de l'Associació de Sant Jordi-> Apartat d'àrea institucional (pàgina 60)
