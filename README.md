@@ -20,7 +20,8 @@
 - Directiva per filà
 
 
-## Enllaços 
+## Enllaços d'interés
 
-* http://revista.asjordi.org/
-* http://fonevol.net/
+* [Associació de Sant Jordi](https://www.asjordi.org/): Entitat responsable de l'organització de les festes de Moros i Cristians d'Alcoi.
+  * [Publicacions de l'associació de Sant Jordi](http://revista.asjordi.org/)
+* [FONEVOL](http://fonevol.net/): Associació que fomenta la participació de les dones en les festes de Moros i Cristians d’Alcoi en plenes condicions d’igualtat.
