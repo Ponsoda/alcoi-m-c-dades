@@ -1,1 +1,1 @@
-Dades de la página web: https://www.asjordi.org/asociacion/68/organizacion.html
+Dades de la revista 2023. No accessible en format electrònic a 17/03/2024.
